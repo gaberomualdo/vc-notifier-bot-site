@@ -3720,10 +3720,10 @@ body.is-preload .banner.onload-image-fade-in .image img {
 }
 
 .banner.style1.image-position-right .image img {
-  -moz-object-position: right;
-  -webkit-object-position: right;
-  -ms-object-position: right;
-  object-position: right;
+  -moz-object-position: center;
+  -webkit-object-position: center;
+  -ms-object-position: center;
+  object-position: center;
 }
 
 /* Banner (style2) */
